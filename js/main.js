@@ -294,7 +294,7 @@ function initInquiryForm() {
     const name = nameInput.value.trim();
     const phone = phoneInput.value.trim();
     const project = projectSelect.value;
-    const message = messageInput.value.trim() || 'Please share brochure and pricing.';
+    const message = messageInput.value.trim() || 'Please get in touch.';
 
     // Encode once, here. Open WhatsApp straight from the tap: browsers block window.open() after a timer.
     const waText = `Hello SNR Builders! My name is ${name} (${phone}). I am interested in: ${project}. Details: ${message}`;
