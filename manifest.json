@@ -1,0 +1,24 @@
+{
+  "name": "SNR Builders — Where the Builders are the Engineers",
+  "short_name": "SNR Builders",
+  "description": "Premium apartments in Trivandrum, Kerala, built by practising civil engineers.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#064e2e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./assets/SNR-Logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/SNR-Logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

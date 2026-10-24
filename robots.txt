@@ -1,0 +1,6 @@
+# robots.txt for SNR Builders (https://snrbuilders.in)
+User-agent: *
+Allow: /
+
+# Canonical Sitemap
+Sitemap: https://snrbuilders.in/sitemap.xml
